@@ -19,3 +19,9 @@ Menambahkan link navigasi
 ### Intro
 
 Mendaftarkan rute untuk link navigasi
+
+## 110. Storing Product Data
+
+### Intro
+
+Menyimpan data produk
