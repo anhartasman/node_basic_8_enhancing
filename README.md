@@ -13,3 +13,9 @@ Menciptakan struktur toko online
 ### Intro
 
 Menambahkan link navigasi
+
+## 109. Registering the Routes
+
+### Intro
+
+Mendaftarkan rute untuk link navigasi
