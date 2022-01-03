@@ -25,3 +25,9 @@ Mendaftarkan rute untuk link navigasi
 ### Intro
 
 Menyimpan data produk
+
+## 111. Displaying Product Data
+
+### Intro
+
+Menampilkan data produk
