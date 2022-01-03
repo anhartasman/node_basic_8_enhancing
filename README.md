@@ -31,3 +31,9 @@ Menyimpan data produk
 ### Intro
 
 Menampilkan data produk
+
+## 112. Editing & Deleting Products
+
+### Intro
+
+Mengubah dan menghapus produk
